@@ -5,8 +5,9 @@ permalink: /about
 # comments: true
 ---
 
-<h2></h2>
+<h2>Why getting to know me is a great idea.</h2>
 
 
 💗：📷 💃 🌺 🎀 👗 💄 💻
+
 🐨：😴 🥱 😴 🥱 💤 💤 💤
