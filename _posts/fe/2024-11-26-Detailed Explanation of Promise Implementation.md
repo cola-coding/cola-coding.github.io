@@ -2,8 +2,9 @@
 layout: post  
 title: "Detailed Explanation of Promise Implementation"  
 date: 2024-11-24  
-author: cola Liu  
-categories: [Frontend]  
+author: cola  
+categories: [Frontend] 
+image: assets/imgs/fe/promise/promise.png
 ---
 
 ## Introduction to Promise

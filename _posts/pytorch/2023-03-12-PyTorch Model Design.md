@@ -2,8 +2,10 @@
 layout: post
 title: "PyTorch Model Design"
 date: 2023-03-12
-author: cola Liu
+author: cola
 categories: [Programming, PyTorch]
+image: assets/imgs/ai/PyTorch/model-design/model-design.png
+ 
 ---
 
 ## 1. General Steps for PyTorch Model Design

@@ -2,12 +2,12 @@
 layout: post
 title: "Intelligent Dialogue System Based on RAG Technology"
 date: 2024-09-25
-author: "cola Liu"
+author: "cola"
 categories: [Work Summary]
 pin: true
----
+image: assets/imgs/ai/work-summary/tech-struct.png
 
-<img src="/assets/imgs/ai/work-summary/tech-struct.png" />
+---
 
 ### 1. **Project Background**
 The demand for personalized learning is growing rapidly in the field of education. Intelligent dialogue systems, powered by `Natural Language Processing (NLP)`, `Automatic Speech Recognition (ASR)`, `Text-to-Speech (TTS)`, and `LLMs`, are transforming traditional teaching methods.

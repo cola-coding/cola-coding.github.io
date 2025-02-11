@@ -1,7 +1,8 @@
 # Site
-name: "Cola's blog"
+name: "Welcome to my Blog!"
 title: "Cola's blog"
-description: "Exploring, building, and sharing."
+description: "
+I am trying to translate my technical articles into English. For the Chinese version of the blog, please visit https://colamini.github.io."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -15,7 +16,7 @@ permalink: /:title/
 authors:
   cola:
     name: 
-    display_name: cola
+    display_name: colaLiu
     avatar: 'assets/images/avatar.png'
     # gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: 1657619661@qq.com
