@@ -9,8 +9,9 @@ image: assets/imgs/ai/work-summary/tech-struct.png
 
 ---
 
-### 1. **Project Background**
-The demand for personalized learning is growing rapidly in the field of education. Intelligent dialogue systems, powered by `Natural Language Processing (NLP)`, `Automatic Speech Recognition (ASR)`, `Text-to-Speech (TTS)`, and `LLMs`, are transforming traditional teaching methods.
+The demand for personalized learning is growing rapidly in the field of education. 
+
+Intelligent dialogue systems, powered by `Natural Language Processing (NLP)`, `Automatic Speech Recognition (ASR)`, `Text-to-Speech (TTS)`, and `LLMs`, are transforming traditional teaching methods.
 
 <img src="/assets/imgs/ai/work-summary/langchain-struct.png" width="600"/>
 
