@@ -1,8 +1,7 @@
 # Site
-name: "Welcome to my Blog!"
+name: "Cola's Blog!"
 title: "Cola's blog"
-description: "
-I am trying to translate my technical articles into English. For the Chinese version of the blog, please visit https://colamini.github.io."
+description: "Exploring, building, and sharing."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
