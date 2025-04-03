@@ -4,7 +4,7 @@ title: "PyTorch Model Design"
 date: 2023-03-12
 author: cola
 categories: [Programming, PyTorch]
-image: assets/imgs/ai/PyTorch/model-design/model-design.png
+image: assets/imgs/ai/PyTorch/model_design/model-design.png
  
 ---
 
@@ -12,11 +12,11 @@ image: assets/imgs/ai/PyTorch/model-design/model-design.png
 
 `PyTorch` provides a comprehensive framework for designing and training neural network models. The general process of model design typically involves the following steps:
 
-<img src="/assets/imgs/ai/PyTorch/model-design/model-design.png" width="800" />
+<img src="/assets/imgs/ai/PyTorch/model_design/model-design.png" width="800" />
 
 Further refinement is shown below ⬇️
 
-<img src="/assets/imgs/ai/PyTorch/model-design/training-steps.png" width="800" />
+<img src="/assets/imgs/ai/PyTorch/model_design/train-steps.png" width="800" />
 
 
 - **1. Define the Model Architecture**: Start by specifying the architecture of the neural network, which usually includes:
@@ -58,7 +58,7 @@ Each layer can be viewed as a function mapping input data (often a tensor) to ou
 
 A **neural network model** is composed of multiple layers working together to achieve a specific task, as shown below ⬇️:
 
-<img src="/assets/imgs/ai/PyTorch/model-design/model-abstract-01.png" width="600" />
+<img src="/assets/imgs/ai/PyTorch/model_design/model-abstract-01.png" width="600" />
 
 Neural network layers often include learnable parameters (e.g., weights and biases), which are automatically updated during training through **backpropagation**.
 
@@ -75,7 +75,7 @@ Some common neural network layers include:
 
 - **Pooling Layer**: Pooling layers reduce the size of feature maps and the number of parameters in a network. Popular methods include `MaxPooling` and `AveragePooling`. These layers typically do not use activation functions.
 
-<img src="/assets/imgs/ai/PyTorch/model-design/common-neural-network-layer.png" width="400" />
+<img src="/assets/imgs/ai/PyTorch/model_design/common-neural-network-layer.png" width="400" />
 
 In practice, many other types of layers can be incorporated depending on the task and dataset.
 
@@ -85,7 +85,7 @@ In practice, many other types of layers can be incorporated depending on the tas
 
 Neural network models combine various layers and operations to tackle specific tasks. Below are a few examples ⬇️:
 
-<img src="/assets/imgs/ai/PyTorch/model-design/common-neural-network-model.png" width="300" />
+<img src="/assets/imgs/ai/PyTorch/model_design/common-neural-network-model.png" width="300" />
 
 - **Convolutional Neural Network (CNN)**: Suited for **image processing tasks**, CNNs use convolutional and pooling layers for feature extraction and dimensionality reduction, followed by fully connected layers for classification or regression.
 <p></p>
@@ -107,7 +107,7 @@ A typical **CNN (Convolutional Neural Network)** consists of layers organized as
 
 > **[Input] -> [Conv2D] -> [Activation] -> [MaxPooling] -> [Conv2D] -> [Activation] -> [MaxPooling] -> [Flatten] -> [Dense] -> [Activation] -> [Dense] -> [Activation] -> [Output]**
 
-<img src="/assets/imgs/ai/PyTorch/model-design/CNN-struct.jpeg" width="600" />
+<img src="/assets/imgs/ai/PyTorch/model_design/CNN-struct.jpeg" width="600" />
 
 Key components:
 - **Input Layer**: Receives the raw data.
