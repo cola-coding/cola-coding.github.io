@@ -6,7 +6,7 @@
 - **Career Overview**: Roles across C-end, B-end, Ops and AI systems  
 
 
-<img src="/assets/representation/IMG_24.png" width="600" />
+<img src="/assets/representation/IMG_24.png" />
 
 
 - **Technical Focus**: How my goals  shifted with each role
@@ -30,12 +30,12 @@
 
 - Fullstack practice
 
-<img src="/assets/representation/IMG_29.png" width="600" />
+<img src="/assets/representation/IMG_29.png" />
 
 
 - Foundational ML knowledge  
 
-<img src="/assets/representation/IMG_28.png" width="600" />
+<img src="/assets/representation/IMG_28.png" />
 
 
 
@@ -49,7 +49,7 @@
 #### **AI Chat System**: Team leadership, fast iteration, cross-team sync  
 System overview
 
-<img src="/assets/representation/IMG_30.png" width="600" />
+<img src="/assets/representation/IMG_30.png" />
 
 - System design
 
@@ -57,17 +57,17 @@ System overview
 
 - RAG Architecture
 
-<img src="/assets/representation/IMG_31.png" width="600" />
+<img src="/assets/representation/IMG_31.png" />
 
 
 - Langchain Architecture
 
-<img src="/assets/representation/IMG_34.png" width="600" />
+<img src="/assets/representation/IMG_34.png" />
 
 
 - Langchain Agent Architecture
 
-<img src="/assets/representation/IMG_32.png" width="600" />
+<img src="/assets/representation/IMG_32.png" />
 
 
 
@@ -79,11 +79,11 @@ System overview
 
 - Why we choose Nest.js?
 
-<img src="/assets/representation/IMG_36.png" width="600" />
+<img src="/assets/representation/IMG_36.png" />
 
 - Nest.js Architecture
 
-<img src="/assets/representation/IMG_35.png" width="600" />
+<img src="/assets/representation/IMG_35.png" />
 
 
 
@@ -96,12 +96,12 @@ System overview
 
 - **Role of “AI Applications”** within the broader AI ecosystem  
 
-<img src="/assets/representation/IMG_38.png" width="600" />
+<img src="/assets/representation/IMG_38.png" />
 
 
 - **Product Oriented**: C-end, B-end, Office, Enterprise, Developers
 
-<img src="/assets/representation/IMG_43.png" width="600" />
+<img src="/assets/representation/IMG_43.png" />
 
 
 
@@ -113,8 +113,7 @@ System overview
 - **Several products across CN & EN markets**  
 
 
-<img src="/assets/representation/IMG_44.png" width="600" />
-
+<img src="/assets/representation/IMG_44.png" />
 
 #### **Claude**
 
@@ -129,7 +128,7 @@ System overview
 
 > plugin-style, workflow-based, agent orchestration  
 
-<img src="/assets/representation/IMG_45.png" width="600" />
+<img src="/assets/representation/IMG_45.png" />
 
 
  
@@ -150,7 +149,7 @@ System overview
 
 #### **Trae / WindSurf**
 
-<img src="/assets/representation/IMG_46.png" width="600" />
+<img src="/assets/representation/IMG_46.png"  />
 
 - Customize Models
 
@@ -178,17 +177,17 @@ System overview
 - **Cultural match**: fast learner, collaborative, ownership-driven  
 
 
-<img src="/assets/representation/IMG_57.png" width="600" />
+<img src="/assets/representation/IMG_57.png" />
 
 
 - Proficient in front-end engineering and summarize a complete solution
 
-<img src="/assets/representation/IMG_26.png" width="600" />
+<img src="/assets/representation/IMG_26.png" />
 
 
 - Writing， Collaborating
 
-<img src="/assets/representation/IMG_56.png" width="600" />
+<img src="/assets/representation/IMG_56.png" />
 
 
 ---
@@ -198,4 +197,4 @@ System overview
 
 - **Future focus**: plugin ecosystems, low-code tools, AI-powered workflows  
 
-<img src="/assets/representation/IMG_58.png" width="600" />
+<img src="/assets/representation/IMG_58.png" />
