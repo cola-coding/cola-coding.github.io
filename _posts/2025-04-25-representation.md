@@ -79,7 +79,7 @@ System overview
 
 - Why we choose Nest.js?
 
-<img src="/assets/representation/IMG_36.png" />
+<img src="/assets/representation/IMG_36.png" width="300"/>
 
 - Nest.js Architecture
 
@@ -153,15 +153,15 @@ System overview
 
 - Customize Models
 
-<img src="/assets/representation/IMG_53.png" width="400" />
+<img src="/assets/representation/IMG_53.png" width="500" />
 
 - Configure MCP, communicate with the outside resources
 
-<img src="/assets/representation/IMG_52.png" width="400" />
+<img src="/assets/representation/IMG_52.png" width="500" />
 
 - Develop AI Agent
 
-<img src="/assets/representation/IMG_54.png" width="400" />
+<img src="/assets/representation/IMG_54.png" width="500" />
 
 
 
