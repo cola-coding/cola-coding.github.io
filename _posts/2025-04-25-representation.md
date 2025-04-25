@@ -46,7 +46,7 @@
 ### **3｜Project Highlights**  
 > What I’ve actually delivered
 
-**AI Chat System**: Team leadership, fast iteration, cross-team sync  
+#### **AI Chat System**: Team leadership, fast iteration, cross-team sync  
 System overview
 
 <img src="/assets/representation/IMG_30.png" width="600" />
@@ -73,8 +73,9 @@ System overview
 
 
 
+---
 
-**Node Framework Refactor**: AOP architecture, decorators, meta-programming  
+#### **Node Framework Refactor**: AOP architecture, decorators, meta-programming  
 
 - Why we choose Nest.js?
 
@@ -104,8 +105,6 @@ System overview
 
 
 
-
-
 ---
 
 ### **5｜AI Agent Product**  
@@ -117,7 +116,7 @@ System overview
 <img src="/assets/representation/IMG_44.png" width="600" />
 
 
-**Claude**
+#### **Claude**
 
 <img src="/assets/representation/IMG_40.png" width="600" />
 
@@ -126,7 +125,7 @@ System overview
 <img src="/assets/representation/IMG_42.png" width="600" />
 
 
-**Coze**
+#### **Coze**
 
 > plugin-style, workflow-based, agent orchestration  
 
@@ -149,7 +148,7 @@ System overview
 
 
 
-**Trae / WindSurf**
+#### **Trae / WindSurf**
 
 <img src="/assets/representation/IMG_46.png" width="600" />
 
@@ -200,4 +199,3 @@ System overview
 - **Future focus**: plugin ecosystems, low-code tools, AI-powered workflows  
 
 <img src="/assets/representation/IMG_58.png" width="600" />
-
